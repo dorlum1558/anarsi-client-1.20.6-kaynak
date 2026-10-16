@@ -17,7 +17,7 @@ public abstract class ClientPlayNetworkHandlerMixin {
    @Inject(method = "onEntityVelocityUpdate", at = @At("HEAD"), cancellable = true)
    private void anarsiclient$velocity(EntityVelocityUpdateS2CPacket packet, CallbackInfo ci) {
       MinecraftClient mc = MinecraftClient.getInstance();
-      if (!AntiKnockback.active() || mc.player == null || packet.getEntityId() != mc.player.getId()) return;
+      if (!AntiKnockback.active() || mc.player == null || packet.getId() != mc.player.getId()) return;
       if (!mc.isOnThread()) return; // paket önce ağ thread'inde gelir; ana thread'de işle
       AntiKnockback ak = AntiKnockback.INSTANCE;
       ci.cancel();
