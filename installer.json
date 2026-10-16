@@ -1,0 +1,246 @@
+{
+  "name": "Anarsi Client",
+  "mod_prefix": "anarsi-client-",
+  "versions": [
+    {
+      "minecraft": "1.16",
+      "mod_file": "anarsi-client-1.1.0-mc1.16.jar",
+      "mod_url": "",
+      "mod_sha256": ""
+    },
+    {
+      "minecraft": "1.16.1",
+      "mod_file": "anarsi-client-1.1.0-mc1.16.1.jar",
+      "mod_url": "",
+      "mod_sha256": ""
+    },
+    {
+      "minecraft": "1.16.2",
+      "mod_file": "anarsi-client-1.1.0-mc1.16.2.jar",
+      "mod_url": "",
+      "mod_sha256": ""
+    },
+    {
+      "minecraft": "1.16.3",
+      "mod_file": "anarsi-client-1.1.0-mc1.16.3.jar",
+      "mod_url": "",
+      "mod_sha256": ""
+    },
+    {
+      "minecraft": "1.16.4",
+      "mod_file": "anarsi-client-1.1.0-mc1.16.4.jar",
+      "mod_url": "",
+      "mod_sha256": ""
+    },
+    {
+      "minecraft": "1.16.5",
+      "mod_file": "anarsi-client-1.1.0-mc1.16.5.jar",
+      "mod_url": "",
+      "mod_sha256": ""
+    },
+    {
+      "minecraft": "1.17",
+      "mod_file": "anarsi-client-1.1.0-mc1.17.jar",
+      "mod_url": "",
+      "mod_sha256": ""
+    },
+    {
+      "minecraft": "1.17.1",
+      "mod_file": "anarsi-client-1.1.0-mc1.17.1.jar",
+      "mod_url": "",
+      "mod_sha256": ""
+    },
+    {
+      "minecraft": "1.18",
+      "mod_file": "anarsi-client-1.1.0-mc1.18.jar",
+      "mod_url": "",
+      "mod_sha256": ""
+    },
+    {
+      "minecraft": "1.18.1",
+      "mod_file": "anarsi-client-1.1.0-mc1.18.1.jar",
+      "mod_url": "",
+      "mod_sha256": ""
+    },
+    {
+      "minecraft": "1.18.2",
+      "mod_file": "anarsi-client-1.1.0-mc1.18.2.jar",
+      "mod_url": "",
+      "mod_sha256": ""
+    },
+    {
+      "minecraft": "1.19",
+      "mod_file": "anarsi-client-1.1.0-mc1.19.jar",
+      "mod_url": "",
+      "mod_sha256": ""
+    },
+    {
+      "minecraft": "1.19.1",
+      "mod_file": "anarsi-client-1.1.0-mc1.19.1.jar",
+      "mod_url": "",
+      "mod_sha256": ""
+    },
+    {
+      "minecraft": "1.19.2",
+      "mod_file": "anarsi-client-1.1.0-mc1.19.2.jar",
+      "mod_url": "",
+      "mod_sha256": ""
+    },
+    {
+      "minecraft": "1.19.3",
+      "mod_file": "anarsi-client-1.1.0-mc1.19.3.jar",
+      "mod_url": "",
+      "mod_sha256": ""
+    },
+    {
+      "minecraft": "1.19.4",
+      "mod_file": "anarsi-client-1.1.0-mc1.19.4.jar",
+      "mod_url": "",
+      "mod_sha256": ""
+    },
+    {
+      "minecraft": "1.20",
+      "mod_file": "anarsi-client-1.1.0-mc1.20.jar",
+      "mod_url": "",
+      "mod_sha256": ""
+    },
+    {
+      "minecraft": "1.20.1",
+      "mod_file": "anarsi-client-1.1.0-mc1.20.1.jar",
+      "mod_url": "",
+      "mod_sha256": ""
+    },
+    {
+      "minecraft": "1.20.2",
+      "mod_file": "anarsi-client-1.1.0-mc1.20.2.jar",
+      "mod_url": "",
+      "mod_sha256": ""
+    },
+    {
+      "minecraft": "1.20.3",
+      "mod_file": "anarsi-client-1.1.0-mc1.20.3.jar",
+      "mod_url": "",
+      "mod_sha256": ""
+    },
+    {
+      "minecraft": "1.20.4",
+      "mod_file": "anarsi-client-1.1.0-mc1.20.4.jar",
+      "mod_url": "",
+      "mod_sha256": ""
+    },
+    {
+      "minecraft": "1.20.5",
+      "mod_file": "anarsi-client-mc1.20.6-1.1.0.jar",
+      "mod_url": "",
+      "mod_sha256": ""
+    },
+    {
+      "minecraft": "1.20.6",
+      "mod_file": "anarsi-client-mc1.20.6-1.1.0.jar",
+      "mod_url": "",
+      "mod_sha256": ""
+    },
+    {
+      "minecraft": "1.21",
+      "mod_file": "anarsi-client-1.1.0.jar",
+      "mod_url": "",
+      "mod_sha256": "59d9a6e58fb3128379e6b8da39f9e271b9405ccb1921366495f68d947644d749"
+    },
+    {
+      "minecraft": "1.21.1",
+      "mod_file": "anarsi-client-1.1.0.jar",
+      "mod_url": "",
+      "mod_sha256": "59d9a6e58fb3128379e6b8da39f9e271b9405ccb1921366495f68d947644d749"
+    },
+    {
+      "minecraft": "1.21.2",
+      "mod_file": "anarsi-client-1.1.0.jar",
+      "mod_url": "",
+      "mod_sha256": "59d9a6e58fb3128379e6b8da39f9e271b9405ccb1921366495f68d947644d749"
+    },
+    {
+      "minecraft": "1.21.3",
+      "mod_file": "anarsi-client-1.1.0.jar",
+      "mod_url": "",
+      "mod_sha256": "59d9a6e58fb3128379e6b8da39f9e271b9405ccb1921366495f68d947644d749"
+    },
+    {
+      "minecraft": "1.21.4",
+      "mod_file": "anarsi-client-1.1.0.jar",
+      "mod_url": "",
+      "mod_sha256": "59d9a6e58fb3128379e6b8da39f9e271b9405ccb1921366495f68d947644d749"
+    },
+    {
+      "minecraft": "1.21.5",
+      "mod_file": "anarsi-client-1.1.0.jar",
+      "mod_url": "",
+      "mod_sha256": "59d9a6e58fb3128379e6b8da39f9e271b9405ccb1921366495f68d947644d749"
+    },
+    {
+      "minecraft": "1.21.6",
+      "mod_file": "anarsi-client-1.1.0.jar",
+      "mod_url": "",
+      "mod_sha256": "59d9a6e58fb3128379e6b8da39f9e271b9405ccb1921366495f68d947644d749"
+    },
+    {
+      "minecraft": "1.21.7",
+      "mod_file": "anarsi-client-1.1.0.jar",
+      "mod_url": "",
+      "mod_sha256": "59d9a6e58fb3128379e6b8da39f9e271b9405ccb1921366495f68d947644d749"
+    },
+    {
+      "minecraft": "1.21.8",
+      "mod_file": "anarsi-client-1.1.0.jar",
+      "mod_url": "",
+      "mod_sha256": "59d9a6e58fb3128379e6b8da39f9e271b9405ccb1921366495f68d947644d749"
+    },
+    {
+      "minecraft": "1.21.9",
+      "mod_file": "anarsi-client-1.1.0.jar",
+      "mod_url": "",
+      "mod_sha256": "59d9a6e58fb3128379e6b8da39f9e271b9405ccb1921366495f68d947644d749"
+    },
+    {
+      "minecraft": "1.21.10",
+      "mod_file": "anarsi-client-1.1.0.jar",
+      "mod_url": "",
+      "mod_sha256": "59d9a6e58fb3128379e6b8da39f9e271b9405ccb1921366495f68d947644d749"
+    },
+    {
+      "minecraft": "1.21.11",
+      "mod_file": "anarsi-client-1.1.0.jar",
+      "mod_url": "",
+      "mod_sha256": "59d9a6e58fb3128379e6b8da39f9e271b9405ccb1921366495f68d947644d749"
+    },
+    {
+      "minecraft": "26.1",
+      "mod_file": "anarsi-client-1.1.0.jar",
+      "mod_url": "",
+      "mod_sha256": "59d9a6e58fb3128379e6b8da39f9e271b9405ccb1921366495f68d947644d749"
+    },
+    {
+      "minecraft": "26.1.1",
+      "mod_file": "anarsi-client-1.1.0.jar",
+      "mod_url": "",
+      "mod_sha256": "59d9a6e58fb3128379e6b8da39f9e271b9405ccb1921366495f68d947644d749"
+    },
+    {
+      "minecraft": "26.1.2",
+      "mod_file": "anarsi-client-1.1.0.jar",
+      "mod_url": "",
+      "mod_sha256": "59d9a6e58fb3128379e6b8da39f9e271b9405ccb1921366495f68d947644d749"
+    },
+    {
+      "minecraft": "26.2",
+      "mod_file": "anarsi-client-1.1.0.jar",
+      "mod_url": "",
+      "mod_sha256": "59d9a6e58fb3128379e6b8da39f9e271b9405ccb1921366495f68d947644d749"
+    },
+    {
+      "minecraft": "26.3",
+      "mod_file": "anarsi-client-1.1.0.jar",
+      "mod_url": "",
+      "mod_sha256": "59d9a6e58fb3128379e6b8da39f9e271b9405ccb1921366495f68d947644d749"
+    }
+  ]
+}

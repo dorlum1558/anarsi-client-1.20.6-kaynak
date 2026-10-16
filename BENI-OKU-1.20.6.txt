@@ -1,0 +1,44 @@
+=======================================================
+  ANARSI CLIENT - 1.20.5 / 1.20.6 DERLEME PAKETI
+=======================================================
+
+Bu kaynak, orijinal 1.21.1 kodunun Minecraft 1.20.5-1.20.6
+icin uyarlanmis halidir. Degisenler:
+
+  * HudOverlay.java  : RenderTickCounter yerine float tickDelta
+                       (1.20.6'da HudRenderCallback boyle calisir)
+  * PlayerESP.java   : ctx.tickDelta() (1.20.6'da tickCounter() yok)
+  * InstaKill.java   : Gurz kontrolu kosullu yapildi. Kod artik
+                       "minecraft:mace" kimligini kayit defterinden
+                       sorar; guruz 1.21'de geldigi icin bu ozellik
+                       1.20.6'da menude gorunur ama tetiklenmez,
+                       1.21+ surumlerinde calisir.
+  * fabric.mod.json  : minecraft araligi >=1.20.5 <=1.20.6
+  * gradle.properties: yarn 1.20.6+build.3, fabric-api 0.100.8+1.20.6
+
+DERLEME (senin bir sey kurman gerekmiyor)
+-------------------------------------------------------
+1) GitHub: Bu klasorun icerigini bir repoya yukle.
+   .github/workflows/build.yml otomatik derler; jar cikti olarak
+   Actions > Artifacts altinda "anarsi-client-jar" ile iner.
+2) Abacus AI Agent: "bu klasoru derle" de, jar'i kendisi cikarir.
+
+Jar adi: anarsi-client-mc1.20.6-1.1.0.jar (build/libs icinde)
+
+KURULUM
+-------------------------------------------------------
+1) jar dosyasini Anarsi-Client-Kurulum.exe'nin YANINA koy.
+2) Bu paketteki installer.json'u da exe'nin yanina koy
+   (eski installer.json'un uzerine yazsin).
+3) Installer'i calistir, "Minecraft 1.20.6" (veya 1.20.5) sec.
+4) Oyunu ac, surum listesinden "Anarsi Client" sec, Oyna.
+   Sag Shift = hile menusu.
+
+NOTLAR
+-------------------------------------------------------
+* 1.21 ve 1.21.1 icin hali hazirdaki anarsi-client-1.1.0.jar
+  kullanilmaya devam eder; iki jar ayri dosyalardir.
+* Gruz (InstaKill) 1.20.6'da oyunda olmadigi icin o surumde
+  etki etmez; bu bir hata degil, surumun siniri.
+* 1.20.4 ve alti icin bu kod derlenmez (DrawContext ve diger
+  farklar). O gruplar ayri istek uzerine uyarlanir.
